@@ -51,7 +51,10 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: auto; gap: 0;">
     <img height="180em" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sal-Fakoya&theme=github_dark" alt="Salamot's GitHub Stats" />
     <img height="180em" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sal-Fakoya&theme=github_dark" alt="Salamot's Top Languages" />
-    <img height="200em" width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" alt="Salamot's Profile Details" />
+</div>
+
+<div>
+     <img height="200em" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" alt="Salamot's Profile Details" />
 </div>
 
 ## 📈 Other GitHub Stats
