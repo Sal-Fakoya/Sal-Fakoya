@@ -1,6 +1,5 @@
 <!-- Intro Banner -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0E7FC0,100:a5dbff&height=175&text=Hello!%20I'm%20Salamot%20👋&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hello!%20I'm%20Salamot&fontAlign=50&fontAlignY=40&color=8A2BE2&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
 <h1>👤 About Me</h1>
 <p>Welcome! I'm an enthusiastic undergraduate data science student from The University of Texas at Dallas. This GitHub profile is my canvas where I showcase my growing software engineering skills. My journey so far has been enriched with hands-on experience in <b>Data Analysis and Visualization</b>, and I'm continuously diving deeper into the fascinating worlds of <b>Machine Learning</b> and <b>Backend Web Development</b>.</p>
@@ -12,7 +11,7 @@
 - 🌐 **[Portfolio](https://salamot-fakoya.netlify.app/)**
 - 📄 **[Resume](https://salamot-fakoya.netlify.app/resume/cv/salamot-fakoya-resumespring2025.pdf)**
 
-<h1>🚀  Featured Projects</h1>
+<h1>🚀 Featured Projects</h1>
 
 - 📋 **[CRUD App](https://crud-web.streamlit.app/) | [GitHub](https://github.com/Sal-Fakoya/crud-app)**: A Task Management App designed to manage and track tasks, with an intuitive user interface.
 - 📊 **[COVID-19 EDA Using R](https://covid19-eda-with-r.netlify.app/about.html) | [GitHub](https://github.com/Sal-Fakoya/covid19-Analysis-Website/tree/master)**: A web app documenting the EDA steps and their results taken in cleaning, preparing, and analyzing the COVID-19 Pandemic in the U.S.
@@ -24,37 +23,43 @@
 #### Languages & Libraries ####
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=%FFFFFF)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=%FFFFFF)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300BFFF.svg?style=for-the-badge&logo=Seaborn&logoColor=%FFFFFF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-%23276DC3.svg?style=for-the-badge&logo=Tidyverse&logoColor=%FFFFFF)
-![Quarto](https://img.shields.io/badge/Quarto-%23000000.svg?style=for-the-badge&logo=Quarto&logoColor=%FFFFFF)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=%FFFFFF)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=%FFFFFF)
-![Boto3](https://img.shields.io/badge/Boto3-%2300BFFF.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=%FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=%FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=%FFFFFF)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=fff)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-00BFFF?logo=Seaborn&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-276DC3?logo=R&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-000000?logo=Quarto&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=fff)
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?logo=Amazon%20AWS&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=PostgreSQL&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=fff)
 
 #### Development Tools | IDE ####
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=%FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff)
 
 <h1>📈 Statistics</h1>
 <div style="display: flex; flex-wrap: wrap; align-items: left; margin: auto;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sal-Fakoya&theme=github_dark" height="180em" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sal-Fakoya&theme=github_dark" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" width="616em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sal-Fakoya&theme=github_dark" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sal-Fakoya&theme=github_dark" height="180em" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" width="616em" />
 </div>
 
 ## 📈 Other GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sal-Fakoya&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sal-Fakoya&layout=compact&theme=dark)
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sal-Fakoya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Salamot's GitHub stats" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sal-Fakoya&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Salamot's Top Languages" />
+
+</div>
