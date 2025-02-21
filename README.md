@@ -49,7 +49,7 @@
 
 <h1>📈 Statistics</h1>
 
-<div>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: auto; gap: 0;">
      <img height="200em" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" alt="Salamot's Profile Details" />
 </div>
 
