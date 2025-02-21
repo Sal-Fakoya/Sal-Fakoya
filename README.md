@@ -48,11 +48,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff)
 
 <h1>📈 Statistics</h1>
-<div style="display: flex; flex-wrap: wrap; align-items: left; justify-content: center; margin: auto; gap: 10;">
-    <img height="180em" width = "40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sal-Fakoya&layout=compact&theme=github_dark" alt="GitHub Stats" />
-    <img height="180em" width = "40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sal-Fakoya&layout=compact&theme=github_dark" alt="Top Languages" />
-</div>
-
 <div>
      <img height="200em" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" alt="Salamot's Profile Details" />
 </div>
@@ -60,7 +55,7 @@
 ## 📈 Other GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: auto; gap: 0;">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Sal-Fakoya&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub stats" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Sal-Fakoya&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sal-Fakoya&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
