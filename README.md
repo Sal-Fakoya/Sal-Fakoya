@@ -48,9 +48,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff)
 
 <h1>📈 Statistics</h1>
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: auto; gap: 0;">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sal-Fakoya&theme=github_dark" alt="GitHub Stats" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sal-Fakoya&layout=compact&theme=github_dark" alt="Top Languages" />
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: auto; gap: 10;">
+    <img height="180em" width = "35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sal-Fakoya&layout=compact&theme=github_dark" alt="GitHub Stats" />
+    <img height="180em" width = "35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sal-Fakoya&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div>
