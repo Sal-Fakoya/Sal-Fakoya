@@ -1,5 +1,5 @@
 <!-- New Intro Banner with Green Gradient Theme -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=👋%20Hello!%20I'm%20Salamot&fontAlign=50&fontAlignY=40&color=0:00BFFF,100:00008B&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=👋%20Hello!%20I'm%20Salamot&fontAlign=50&fontAlignY=50&color=0:00BFFF,100:00008B&fontColor=FFFFFF&animation=blinking" width="100%" />
 
 
 <h1>👤 About Me</h1>
