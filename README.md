@@ -1,8 +1,6 @@
 <!-- New Intro Banner with Green Gradient Theme -->
 <img src="https://capsule-render.vercel.app/api?type=soft&height=200&text=👋%20Hello!%20I'm%20Salamot&fontAlign=50&fontAlignY=40&color=0:32CD32,100:008000&fontColor=FFFFFF&animation=blinking" width="100%" />
 
-<!-- Intro Banner -->
-<!--><img src="https://capsule-render.vercel.app/api?type=soft&height=200&text=👋%20Hello!%20I'm%20Salamot&fontAlign=50&fontAlignY=40&color=8A2BE2&fontColor=FFFFFF&animation=blinking" width="100%" />
 
 <h1>👤 About Me</h1>
 <p>Welcome! I'm an enthusiastic undergraduate data science student from The University of Texas at Dallas. This GitHub profile is my canvas where I showcase my growing software engineering skills. My journey so far has been enriched with hands-on experience in <b>Data Analysis and Visualization</b>, and I'm continuously diving deeper into the fascinating worlds of <b>Machine Learning</b> and <b>Backend Web Development</b>.</p>
