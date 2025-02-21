@@ -57,7 +57,7 @@
 ## 📈 Other GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: auto;">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Sal-Fakoya&show_icons=true&theme=github-dark&hide_border=true&count_private=true" alt="Salamot's GitHub stats" />
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sal-Fakoya&layout=compact&langs_count=10&theme=github-dark&hide_border=true" alt="Salamot's Top Languages" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Sal-Fakoya&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Salamot's GitHub stats" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sal-Fakoya&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Salamot's Top Languages" />
 </div>
 
