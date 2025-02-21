@@ -48,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff)
 
 <h1>📈 Statistics</h1>
+
 <div>
      <img height="200em" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" alt="Salamot's Profile Details" />
 </div>
