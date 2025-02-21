@@ -48,7 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff)
 
 <h1>📈 Statistics</h1>
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin: auto; align="center";>
+<div style="display: flex; flex-wrap: wrap; align-items: center; margin: auto; align="center"; />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sal-Fakoya&theme=github_dark" height="180em" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sal-Fakoya&theme=github_dark" height="180em" />
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sal-Fakoya&theme=github_dark" width="616em" />
