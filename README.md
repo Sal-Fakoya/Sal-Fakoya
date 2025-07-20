@@ -3,7 +3,7 @@
 
 
 <h1>👤 About Me</h1>
-<p>Welcome! I'm an enthusiastic undergraduate data science student from The University of Texas at Dallas. This GitHub profile is my canvas where I showcase my growing software engineering skills. My journey so far has been enriched with hands-on experience in <b>Data Analysis and Visualization</b>, and I'm continuously diving deeper into the fascinating worlds of <b>Machine Learning</b> and <b>Backend Web Development</b>.</p>
+<p>I'm a data science junior at The University of Texas at Dallas. My journey so far has been enriched with hands-on experience in <b>Data Analysis and Visualization</b>, and I'm continuously diving deeper into the fascinating worlds of <b>Data Science</b>b</p>
 <p>I'm passionate about leveraging data to uncover insights and build impactful solutions. As I strive to expand my knowledge and expertise, I'm eager to collaborate on exciting projects and seize new opportunities that come my way!</p>
 
 ## 🌐 Connect with Me
