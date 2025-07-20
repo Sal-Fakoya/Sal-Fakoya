@@ -4,7 +4,7 @@
 
 <h1>👤 About Me</h1>
 <p>I'm a data science junior at The University of Texas at Dallas. My journey so far has been enriched with hands-on experience in <b>Data Analysis and Visualization</b>, and I'm continuously diving deeper into the fascinating world of <b>Data Science.</b></p>
-<p>I'm passionate about leveraging data to uncover insights and build impactful solutions. As I strive to expand my knowledge and expertise, I'm eager to collaborate on exciting projects and seize new opportunities that come my way!</p>
+<p>I'm passionate about leveraging data to uncover impactful insights, and I'm eager to collaborate on exciting projects and seize new opportunities that come my way!</p>
 
 ## 🌐 Connect with Me
 
