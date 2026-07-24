@@ -40,4 +40,4 @@ I'm a highly curious, knowledge-driven person outside of the classroom too. Righ
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/salamot-fakoya-650325224/)
-- [Email](mailto:salamot.fakoya08@gmail.com)
+- [Email](mailto:salamot.fakoya@utdallas.edu)
