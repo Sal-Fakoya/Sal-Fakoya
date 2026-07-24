@@ -7,11 +7,6 @@ I'm a Data Science student at the University of Texas at Dallas (B.S., expected 
 - Completing the Break Through Tech AI/ML Fellowship, a year-long, industry-sponsored applied ML program with mentorship from practicing data scientists and engineers
 - Building a chatbot for UT Dallas students with the Artificial Intelligence Society (AskTemoc), contributing to system design, database integration, and iterative development within a cross-functional team
 
-## Recent experience
-
-**JPMorganChase** (October 2025), Machine Learning: Regression, K-Means Clustering
-Collaborated with non-profit stakeholders and a team of students to uncover student growth drivers from 3,000+ records, and led development of an ML workflow that revealed performance gaps across four regions, enabling targeted interventions.
-
 ## Skills
 
 **Languages and tools:** Python, R, SQL (PostgreSQL), Excel, Power BI
