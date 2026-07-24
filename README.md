@@ -1,4 +1,4 @@
-# Hi, I'm Salamot
+# Hi, I'm Sal
 
 I'm a Data Science student at the University of Texas at Dallas (B.S., expected Spring 2027) and a current AI/ML Fellow with Break Through Tech at Cornell Tech. I work across the full machine learning lifecycle, from framing a business problem and auditing a dataset for bias, through modeling, to communicating results to technical and non-technical audiences alike.
 
@@ -37,6 +37,10 @@ Predicted credit card balances with 95% R-squared using regression on demographi
 ### SQL Playground
 
 A cross-database web application compatible with SQLite and MySQL, with query validation and error handling built in (dynamic alerts, input validation).
+
+## A bit more about me
+
+I'm a highly curious, knowledge-driven person outside of the classroom too. Right now I'm into Re:Zero, and being this deep into anime has me wanting to eventually build my own recommendation system, one that can hold its own against Netflix, Crunchyroll, or Amazon Prime. I've also spent time in customer facing and hands-on roles outside of data science, as a cashier and as a design intern, which taught me a lot about working with people under different paces and pressures.
 
 ## Connect
 
