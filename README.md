@@ -1,4 +1,4 @@
-# Hello, I'm Salammot (nickname: Sal)
+# Hello, I'm Salammot
 
 I'm a Data Science student at the University of Texas at Dallas (B.S., expected Spring 2027) and a current AI/ML Fellow with Break Through Tech at Cornell Tech. I work across the full machine learning lifecycle, from framing a business problem and auditing a dataset for bias, through modeling, to communicating results to technical and non-technical audiences alike.
 
