@@ -25,11 +25,11 @@ Benchmarked Logistic Regression, Decision Tree, KNN, and a neural network on 32,
 
 Benchmarked ResNet-18, VGG-16, ViT-B/16, and ViT-L/16 as frozen feature extractors across four datasets to test whether pretrained models can recover dog breed structure with zero label supervision. Vision Transformers reached a 50% improvement in Adjusted Rand Index over the strongest CNN baseline, isolating global average pooling, not feature dimensionality, as the real limitation of the convolutional models. Background removal and lighting degradation experiments across 18+ comparisons further showed that segmentation preprocessing consistently hurt clustering quality, despite the common assumption that it would help.
 
-### [Credit Card Balance Prediction](https://github.com/Sal-Fakoya/credit-MLR)
+### [Credit Card Balance Prediction](https://github.com/Sal-Fakoya/credit-MLR) (Solo Project)
 
 Predicted credit card balances with 95% R-squared using regression on demographic and financial data, optimized through feature engineering, outlier removal, and multi-model comparison with 10-fold cross validation, and packaged as a reproducible R Markdown pipeline with visual diagnostics.
 
-### SQL Playground
+### SQL Playground (Solo Project)
 
 A cross-database web application compatible with SQLite and MySQL, with query validation and error handling built in (dynamic alerts, input validation).
 
