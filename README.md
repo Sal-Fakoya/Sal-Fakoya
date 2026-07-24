@@ -9,7 +9,7 @@ I'm a Data Science student at the University of Texas at Dallas (B.S., expected 
 
 ## Skills
 
-- **Languages and tools:** Python, R, SQL (PostgreSQL), Microsoft Excel, Power BI
+- **Languages and tools:** Python, R, SQL (PostgreSQL), Microsoft Excel, Power BI, HTML, CSS (Tailwind CSS)
 - **Libraries:** NumPy, pandas, scikit-learn, Keras, Tidyverse
 - **Machine learning:** regression, classification, decision trees and ensemble methods, feature selection and regularization, clustering and dimensionality reduction
 
