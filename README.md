@@ -23,7 +23,7 @@ Benchmarked Logistic Regression, Decision Tree, KNN, and a neural network on 32,
 ### [Coarse and Fine Grained Dog Breed Discovery](https://github.com/Sal-Fakoya/Dog-Breed-Discovery-Research-Project-CS-4375-Machine-Learning) (Group Project)
 [Live presentation](https://sal-fakoya.github.io/Dog-Breed-Discovery-Research-Project-CS-4375-Machine-Learning/)
 
-Benchmarked ResNet-18, VGG-16, ViT-B/16, and ViT-L/16 as frozen feature extractors across four datasets to test whether pretrained models can recover dog breed structure with zero label supervision. Vision Transformers reached a 50% improvement in Adjusted Rand Index over the strongest CNN baseline, isolating global average pooling, not feature dimensionality, as the real limitation of the convolutional models. Background removal and lighting degradation experiments across 18+ comparisons further showed that segmentation preprocessing consistently hurt clustering quality, despite the common assumption that it would help.
+Benchmarked ResNet-18, VGG-16, ViT-B/16, and ViT-L/16 as frozen feature extractors across four datasets to test whether pretrained models can recover dog breed structure with zero label supervision. Vision Transformers reached a 50% improvement in Adjusted Rand Index over the strongest CNN baseline, isolating global average pooling as the real limitation of the convolutional models. Background removal and lighting degradation experiments across 18+ comparisons further showed that segmentation preprocessing consistently hurt clustering quality, despite the common assumption that it would help.
 
 ### [Credit Card Balance Prediction](https://github.com/Sal-Fakoya/credit-MLR) (Solo Project)
 
