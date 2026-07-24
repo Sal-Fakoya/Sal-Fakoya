@@ -15,12 +15,12 @@ I'm a Data Science student at the University of Texas at Dallas (B.S., expected 
 
 ## Featured projects
 
-### [Income Classification: A Comparative Study of Predictive Models](https://github.com/Sal-Fakoya/Income-Classification-A-Comparative-Study-of-Predictive-Models)
+### [Income Classification: A Comparative Study of Predictive Models](https://github.com/Sal-Fakoya/Income-Classification-A-Comparative-Study-of-Predictive-Models) (Solo Project)
 [Live presentation](https://sal-fakoya.github.io/Income-Classification-A-Comparative-Study-of-Predictive-Models/)
 
 Benchmarked Logistic Regression, Decision Tree, KNN, and a neural network on 32,561 census records to test whether model complexity pays off for income based credit risk estimation. Corrected a 76/24 class imbalance and recommended Logistic Regression (90.5% AUC) over the neural network, since the neural network's edge in accuracy came at the cost of interpretability that a regulated credit context actually requires. Shipped as an interactive presentation with separate business and technical narratives.
 
-### [Coarse and Fine Grained Dog Breed Discovery](https://github.com/Sal-Fakoya/Dog-Breed-Discovery-Research-Project-CS-4375-Machine-Learning)
+### [Coarse and Fine Grained Dog Breed Discovery](https://github.com/Sal-Fakoya/Dog-Breed-Discovery-Research-Project-CS-4375-Machine-Learning) (Group Project)
 [Live presentation](https://sal-fakoya.github.io/Dog-Breed-Discovery-Research-Project-CS-4375-Machine-Learning/)
 
 Benchmarked ResNet-18, VGG-16, ViT-B/16, and ViT-L/16 as frozen feature extractors across four datasets to test whether pretrained models can recover dog breed structure with zero label supervision. Vision Transformers reached a 50% improvement in Adjusted Rand Index over the strongest CNN baseline, isolating global average pooling, not feature dimensionality, as the real limitation of the convolutional models. Background removal and lighting degradation experiments across 18+ comparisons further showed that segmentation preprocessing consistently hurt clustering quality, despite the common assumption that it would help.
